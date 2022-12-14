@@ -23,7 +23,7 @@ Check out [LIVE DEMO](https://todoapp.rsinclair12.repl.co) here!!
 ```
 ## User Story
 ```
-* Users can add task.
-* Users can delete task.
-* Users can tarck task.
+*  Users can add task.
+*  Users can delete task.
+*  Users can tarck task.
 ```
